@@ -7,7 +7,7 @@ This style guide & UI kit is used on SingularityU.org and all related Singularit
 
 # How to contribute to the style guide
 ## Adding ideas, bugs, or discussing
-Check out the [github issues section](/issues) for open bugs, ideas, comments or questions. 
+Check out the [github issues section](https://github.com/SingularityUniversity/style-guide/issues) for open bugs, ideas, comments or questions. Feel free to participate there. 
 
 
 ## Editting the style guide
