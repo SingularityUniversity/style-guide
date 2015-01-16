@@ -492,7 +492,7 @@ p {
   margin: 0 0 15px;
 }
 .lead {
-  font-family: "Volkhov";	
+  font-family: "Volkhov";
   margin-bottom: 30px;
   font-size: 28px;
   line-height: 1.46428571;
@@ -6270,4 +6270,33 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
 .mhl,
 .mal {
   margin-left: 20px !important;
+}
+
+.color-swatch ul li {
+  padding:10px;
+  list-style-type: none;
+  text-align:center;
+}
+
+.color-swatch ul li div {
+  padding-top:80px;
+  color:#000;
+  width:200px;
+  height:200px;
+}
+
+.su-blue-bg {
+  background-color:#60AFDD;
+}
+
+.su-yellow-bg {
+  background-color:#EDE85B;
+}
+
+.su-orange-bg {
+  background-color:#EDA04F;
+}
+
+.su-purple-bg {
+  background-color:#B26B70;
 }
