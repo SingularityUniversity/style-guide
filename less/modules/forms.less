@@ -45,7 +45,7 @@ label {
 // Placeholder text gets special styles because when browsers invalidate entire
 // lines if it doesn't understand a selector/
 .form-control {
-  .placeholder(desaturate(lighten(@brand-primary, 45%), 15%));
+  .placeholder(desaturate(lighten(@brand-primary, 25%), 15%));
 }
 
 // Common form controls
@@ -98,12 +98,12 @@ label {
     color: mix(@gray, white, 40%);
     cursor: default;
     .opacity(.7);
-  }  
-  
+  }
+
   // Flat (without border)
   &.flat {
     border-color: transparent;
-    
+
     &:hover {
       border-color: @gray-light;
     }
